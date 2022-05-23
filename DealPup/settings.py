@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'jet',
     'jet.dashboard',
    # 'corsheaders',
-
 ]
 
 MIDDLEWARE = [
