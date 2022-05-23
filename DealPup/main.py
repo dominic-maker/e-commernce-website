@@ -1,0 +1,1 @@
+from DealPup.wsgi import main as app
