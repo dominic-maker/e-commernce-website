@@ -383,7 +383,8 @@ def update_address(request,id):
 	form=AddressBookForm(instance=address)
 	return render(request, 'user/update-address.html',{'form':form,'msg':msg})
 
-	
+
+
 # from django.shortcuts import render
 # from django.http import JsonResponse
 # import json
