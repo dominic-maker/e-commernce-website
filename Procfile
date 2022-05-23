@@ -1,1 +1,1 @@
-web: gunicorn --chdir DealPup.wsgi
+web: gunicorn  DealPup.wsgi --log-file -
